@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Eddie3465
-- 👀 I’m interested in  mas la parte de  backend
-- 🌱 I’m currently learning  programacion con python y c++
-- 💞️ I’m looking to collaborate on proyectos interesantes para mostrar lo que se y seguir aprendiendo 
-- 📫 How to reach me  :  eduvillalba651@gmail.com
+Soy tecnico en programacion con conocimientos en Python,Java y C++, tambien poseo conocimientos de desarrollo web HTML,CSS y Javascript.,Json.Bases de datos SQL:MySQL,PostGreSQL,MySQLite. Gestion y manejo de versiones en programas con : Git.
 
 <!---
 Eddie3465/Eddie3465 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
